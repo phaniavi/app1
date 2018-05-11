@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">app1</string>
+    <string name="detect">DETECT</string>
+    <string name="clear">CLEAR</string>
+    <string name="textViewContent">Hello World!</string>
+    <string name="updatedText">Detected</string>
+    <string name="clearedText">Hello World!</string>
 </resources>
